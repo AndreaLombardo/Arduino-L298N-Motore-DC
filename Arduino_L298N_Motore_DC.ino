@@ -5,7 +5,7 @@
  * Autore  : Andrea Lombardo
  * Web     : http://www.lombardoandrea.com
  * Post    : http://bit.ly/L298N-ARDUINO-MOTOREDC
- * Git     : https://github.com/AndreaLombardo/
+ * Git     : https://github.com/AndreaLombardo/Arduino-L298N-Motore-DC
  */ 
 
 //definizione dei pin
